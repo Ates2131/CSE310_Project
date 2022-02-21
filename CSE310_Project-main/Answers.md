@@ -5,3 +5,5 @@
 3-) Pull commands provides us to take new changes from the git project.
 
 4-) clone is the copying the repository from git project.
+
+All questions has answered at 11.09
