@@ -7,3 +7,5 @@
 4-) clone is the copying the repository from git project.
 
 All questions has answered at 11.09
+
+lab öncesi hazırlık
