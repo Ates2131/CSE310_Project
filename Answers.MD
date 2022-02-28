@@ -8,4 +8,3 @@
 
 All questions has answered at 11.09
 
-lab öncesi hazırlık
